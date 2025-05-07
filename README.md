@@ -4,7 +4,7 @@
 
 ## 🧸 Purpose
 
-This extension was created for my girlfriend, so that whenever she’s sleeping alone and I'm not around, she can play songs or videos to comfort her—and the tab will automatically close after a certain time, like a soft digital lullaby.
+This extension was created for my girlfriend (Her name is ❤️Shrayashi Mukherjee❤️), so that whenever she’s sleeping alone and I'm not around, she can play songs or videos to comfort her—and the tab will automatically close after a certain time, like a soft digital lullaby.
 
 ## ✨ Features
 
@@ -26,7 +26,7 @@ This extension was created for my girlfriend, so that whenever she’s sleeping 
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/sleepbaby.git
+   git clone https://github.com/Debanjan-Malakar/SleepBaby.git
    ```
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable **Developer Mode** (top right)
