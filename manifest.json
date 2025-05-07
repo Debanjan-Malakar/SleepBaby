@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "SleepBaby",
+  "version": "1.0",
+  "description": "Closes the tab after a set amount of minutes.",
+  "permissions": ["tabs", "alarms", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
